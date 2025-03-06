@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @neyo55 (Rufai Adeniyi)
 
-## 👀 I’m interested in
+## 👀 I’m always interested in
 - DevOps practices and automation
 - Continuous Integration and Continuous Deployment (CI/CD)
 - Cloud computing and infrastructure as code
