@@ -1,36 +1,92 @@
-# 👋 Hi, I’m @neyo55 (Rufai Adeniyi)
+# Hi 👋, I’m Rufai Kabiru Adeniyi
 
-## 👀 I’m always interested in
-- DevOps practices and automation
-- Continuous Integration and Continuous Deployment (CI/CD)
-- Cloud computing and infrastructure as code
-- Containerization and orchestration with Docker and Kubernetes
-- Security and monitoring in DevOps
+**DevOps Engineer** focused on building scalable, automated, and production‑ready cloud infrastructure.
 
-## 🌱 I’m currently learning
-- Advanced Kubernetes techniques
-- Terraform for infrastructure automation
-- Jenkins for automated pipelines
-- Security best practices in DevOps
-- AWS cloud services
+I specialize in **AWS cloud services, CI/CD automation, containerization, and monitoring**, with hands‑on experience deploying and managing real‑world applications.
 
-## 💞️ I’m looking to collaborate on
-- Open source DevOps projects
-- Automation tools and scripts
-- Cloud infrastructure setups
-- CI/CD pipeline optimizations
-- Security enhancement projects
+---
 
-## 📫 How to reach me
-- Email: kbneyo55@gmail.com
-- LinkedIn: [linkedin.com/in/rufai-adeniyi](https://linkedin.com/in/rufai-adeniyi)
-- Twitter: [@kbneyo55](https://twitter.com/kbneyo55)
-- Hashnode: [@neyo55](https://hashnode.com/@neyo55)
+## 🚀 What I Do
 
-## 😄 Pronouns
-- He/Him
+* Design and deploy cloud infrastructure on **AWS (EC2, VPC, IAM, S3)**
+* Build and maintain **CI/CD pipelines** using GitHub Actions and Jenkins
+* Containerize applications using **Docker** and orchestrate services with Docker Compose
+* Implement **monitoring, logging, and alerting** using Prometheus, Grafana, and Alertmanager
+* Automate infrastructure and operational tasks with **Bash, Ansible, and Terraform**
+* Support production systems with a focus on **reliability, performance, and security**
 
-## ⚡ Fun fact
-- I love playing adventure games on game console and like solving challenges, whether they're tech-related or not!
-- When I'm not automating processes, you can find me exploring new tech gadgets and innovations.
+---
 
+## 🛠️ Tech Stack
+
+### Cloud & Infrastructure
+
+* AWS (EC2, VPC, IAM, S3)
+* Linux (Ubuntu)
+
+### DevOps & Automation
+
+* Docker, Docker Compose
+* GitHub Actions, Jenkins
+* Terraform, Ansible
+* Bash scripting
+
+### Monitoring & Observability
+
+* Prometheus
+* Grafana
+* Alertmanager
+* Node Exporter, MongoDB Exporter
+
+### Databases & Backend
+
+* MongoDB
+* PostgreSQL
+* Python
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Dockerized Full‑Stack Applications
+
+* Containerized React, Node.js, FastAPI applications
+* Reverse proxy setup using Nginx / Traefik
+* Environment‑based configuration and production‑ready deployments
+
+### 🔹 CI/CD Automation
+
+* Automated build, test, and deployment pipelines using GitHub Actions
+* SSH‑based deployments to AWS EC2 instances
+* Multi‑repo CI/CD setup for 3‑tier architectures
+
+### 🔹 Monitoring & Alerting Stack
+
+* Prometheus + Grafana monitoring for infrastructure and applications
+* Custom alert rules with email notifications
+* Resource usage monitoring (CPU, memory, disk) to prevent system overload
+
+*(See pinned repositories below for full implementations)*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neyo55\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neyo55\&layout=compact)
+
+---
+
+## 📫 Let’s Connect
+
+* 🌐 Portfolio: [https://neyothetechguy.com.ng](https://neyothetechguy.com.ng/contact)
+* 💼 LinkedIn: [https://www.linkedin.com/in/rufai-adeniyi](https://www.linkedin.com/in/rufai-adeniyi)
+* 📝 Blog: [https://hashnode.com/@neyo55](https://hashnode.com/@neyo55)
+* 📧 Email: [kbneyo55@gmail.com](mailto:kbneyo55@gmail.com)
+
+---
+
+⭐ *I’m open to DevOps / Cloud / Infrastructure roles and collaborations.*
+
+Thanks for stopping by!
