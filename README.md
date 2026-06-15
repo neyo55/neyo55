@@ -4,7 +4,20 @@
 
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=neyo55&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
+## Quick Navigation
+
+[Projects](#-featured-projects) •
+[Tech Stack](#-tech-stack) •
+[Engineering Dashboard](#-engineering-dashboard) •
+[Latest Articles](#-latest-articles) •
+[Certifications](#-certifications--recognition) •
+[Connect](#-lets-connect)
+
+---
 
 # Hi 👋 I'm Rufai Kabiru Adeniyi
 
@@ -12,18 +25,18 @@
 
 Building scalable cloud infrastructure, intelligent automation workflows, and production-grade platforms that accelerate delivery and operational excellence.
 
-I design, automate, deploy, and operate scalable infrastructure with a strong focus on **AWS, DevOps practices, observability, CI/CD, and AI-driven automation**.
+I design, automate, deploy, and operate scalable infrastructure with a strong focus on **AWS, DevOps practices, observability, GitOps, CI/CD, and AI-driven automation**.
 
 ---
 
 ## 🚀 What I Build
 
-✔ Production-ready cloud infrastructure
-✔ Automated deployment pipelines
-✔ AI-powered workflow automation
-✔ Monitoring and operational visibility platforms
-✔ Containerized application environments
-✔ Reliable and scalable backend systems
+✔ Production-ready Cloud Infrastructure
+✔ Automated Deployment Platforms
+✔ AI-Powered Workflow Automation
+✔ Monitoring & Operational Visibility
+✔ Containerized Application Platforms
+✔ Reliable & Scalable Systems
 
 ---
 
@@ -47,9 +60,11 @@ I design, automate, deploy, and operate scalable infrastructure with a strong fo
 * Docker
 * Docker Compose
 * Infrastructure as Code
-* Bash Automation
 * Terraform
 * Ansible
+* Bash Automation
+* GitOps
+* ArgoCD
 
 ---
 
@@ -57,7 +72,7 @@ I design, automate, deploy, and operate scalable infrastructure with a strong fo
 
 Designing and orchestrating intelligent workflows that connect infrastructure, applications, AI services, and operational processes.
 
-Capabilities:
+### Capabilities
 
 * AI Workflow Automation
 * Event-Driven Automation
@@ -68,114 +83,115 @@ Capabilities:
 * Process Automation
 * Low-Code Automation
 
-Tools:
+### Tools
 
 * OpenAI APIs
 * n8n
 * Python
 * Webhook Automation
-* API Orchestration
 * Workflow Engineering
-* Event-Driven Automation
+* AI Orchestration
+* Low-Code Automation
 
 ---
 
 ## 🏗 Featured Projects
 
-### 🛒 E-Commerce DevOps Platform
+### 🛒 Enterprise E-Commerce DevOps Platform
 
-Repository: ecommerce-devops-project
+**Repository:** `ecommerce-devops-project`
 
 Enterprise-grade DevOps implementation for a containerized e-commerce platform.
 
 Highlights:
 
-* Containerized microservices architecture
-* CI/CD automation
-* Infrastructure deployment
-* Monitoring integration
-* Production deployment workflows
-* Cloud operational practices
+* Containerized Microservices Architecture
+* CI/CD Automation
+* Infrastructure Deployment
+* Monitoring Integration
+* Production Deployment Workflows
+* Cloud Operational Practices
 
-Tech:
-Docker • AWS • CI/CD • Monitoring
+**Tech:**
+Docker • AWS • GitHub Actions • Prometheus • Grafana
 
 ---
 
 ### 🤖 Enterprise AI Logistics System (AISIP Cohort 1 Best Capstone)
 
-Repository: enterprise-ai-logistics-system-aisip-capstone
+**Repository:** `enterprise-ai-logistics-system-aisip-capstone`
 
-AI-powered logistics and operational optimization platform.
+Enterprise-scale AI-powered logistics and operational automation platform.
 
 Highlights:
 
-* AI workflow automation
-* Intelligent process orchestration
-* Business automation
-* API integrations
-* Operational efficiency improvements
-* End-to-end automation pipelines
+* AI Workflow Automation
+* Intelligent Message Processing
+* Business Process Automation
+* Multi-Channel Notifications
+* Operational Decision Routing
+* Enterprise Automation Pipelines
 
-Tech:
-AI • Automation • n8n • APIs • Cloud
+**Tech:**
+n8n • OpenRouter • Twilio • Google Workspace • ElevenLabs
 
 ---
 
 ### 🌦 Enterprise Agri-Tech Daily Farm Weather Pipeline
 
-Repository: enterprise-agri-tech-daily-farm-weather-pipeline
+**Repository:** `enterprise-agri-tech-daily-farm-weather-pipeline`
 
-Automated data and decision pipeline delivering weather-driven agricultural insights.
-
-Highlights:
-
-* Automated data pipelines
-* Scheduled workflows
-* API integrations
-* Cloud-based execution
-* Intelligent reporting
-
-Tech:
-Automation • Cloud • APIs • Data Pipelines
-
----
-
-### 🚀 GitOps Deployment with ArgoCD + FastAPI
-
-Repository: argocd-fastapi-config
-
-Production deployment architecture using GitOps principles.
+AI-powered weather intelligence and advisory automation pipeline.
 
 Highlights:
 
-* GitOps workflows
-* Declarative deployments
-* Continuous delivery
-* Kubernetes-ready configuration
-* Deployment automation
+* Automated Data Pipelines
+* Scheduled Workflow Execution
+* Conditional AI Routing
+* Telemetry Monitoring
+* Dynamic Advisory Generation
+* Operational Reporting
 
-Tech:
-ArgoCD • GitOps • FastAPI • DevOps
+**Tech:**
+n8n • OpenAI • Open-Meteo • Gmail • Google Sheets
 
 ---
 
-### 🐳 Containerized CI/CD Platform with Jenkins & Docker
+### 🚀 GitOps Deployment Platform (ArgoCD + FastAPI)
 
-Repository: Containerized-CI-CD-Pipeline-with-Jenkins-and-Docker-
+**Repository:** `argocd-fastapi-config`
 
-End-to-end automated software delivery pipeline.
+Production deployment platform implementing GitOps principles.
+
+Highlights:
+
+* Declarative Deployments
+* Continuous Delivery
+* Kubernetes-Ready Configuration
+* Environment Synchronization
+* Deployment Automation
+
+**Tech:**
+ArgoCD • GitOps • FastAPI • Kubernetes
+
+---
+
+### 🐳 Containerized CI/CD Platform (Jenkins + Docker)
+
+**Repository:** `Containerized-CI-CD-Pipeline-with-Jenkins-and-Docker-`
+
+End-to-end automated software delivery platform.
 
 Highlights:
 
 * Containerized Jenkins
-* Automated builds
-* Continuous deployment
-* Pipeline orchestration
-* Deployment automation
+* Automated Builds
+* Continuous Deployment
+* Pipeline Orchestration
+* Deployment Automation
 
-Tech:
-Jenkins • Docker • CI/CD
+**Tech:**
+Jenkins • Docker • CI/CD • Git
 
 ---
 
@@ -197,10 +213,10 @@ ArgoCD • GitOps
 
 OpenAI
 n8n
-Python Automation
-Webhooks
-API Orchestration
-Workflow Automation
+Python
+Webhook Automation
+Workflow Engineering
+AI Orchestration
 
 ### 📊 Observability
 
@@ -227,14 +243,14 @@ Pinned repositories showcase:
 ✔ Cloud Infrastructure
 ✔ DevOps Automation
 ✔ AI Workflow Engineering
-✔ GitOps Deployments
-✔ Monitoring & Reliability Engineering
+✔ GitOps Delivery
+✔ Observability & Reliability
 
 ---
 
 ## 🏛 Architecture Philosophy
 
-Design  
+Design
 ↓
 Build
 ↓
@@ -257,6 +273,7 @@ Observability
 Continuous Improvement
 
 ---
+
 ## 📊 Engineering Dashboard
 
 <p align="center">
@@ -279,16 +296,6 @@ Continuous Improvement
 
 ---
 
-## 🚀 Engineering Focus
-
-✔ Cloud Infrastructure
-✔ DevOps Automation
-✔ AI Workflow Engineering
-✔ GitOps Delivery
-✔ Observability & Reliability
-
----
-
 ## 🏆 Activity Graph
 
 <p align="center">
@@ -299,32 +306,102 @@ Continuous Improvement
 
 ---
 
+## 🚀 Engineering Focus
+
+✔ Cloud Infrastructure
+✔ DevOps Automation
+✔ AI Workflow Engineering
+✔ GitOps Delivery
+✔ Observability & Reliability
+
+---
+
 ## 🌱 Currently
 
 * Advancing Kubernetes & Platform Engineering
-* Building AI Automation Systems
+* Building AI Automation Systems with n8n
 * Improving Cloud Architecture Design
 * Expanding Infrastructure as Code Practices
 
 ---
 
-## 🤝 Let's Connect
+## 📝 Latest Articles
 
-🌐 Portfolio
-https://neyothetechguy.com.ng
+<!-- HASHNODE_BLOG:START -->
 
-💼 LinkedIn
-https://www.linkedin.com/in/rufai-adeniyi
+🚀 Articles coming soon...
 
-📝 Blog
-https://hashnode.com/@neyo55
-
-📧 Email
-[kbneyo55@gmail.com](mailto:kbneyo55@gmail.com)
+<!-- HASHNODE_BLOG:END -->
 
 ---
+
+## 🏆 Certifications & Recognition
+
+<p align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🥇 Best Capstone Project — Overall Winner
+
+Awarded by **Africa AI Hub** in recognition of outstanding excellence, innovation, and project impact.
+
+Enterprise AI Logistics System
+
+<img src="./AISIP-certificate-Rufai Adeniyi.JPG" width="95%"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### ☁️ Cloud Engineering Diploma
+
+Completed Cloud Engineering Program
+
+AltSchool Africa
+
+<img src="./AltSchool Africa Certificate - Rufai Kabiru Adeniyi.jpg" width="95%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+🌐 [Portfolio](https://neyothetechguy.com.ng)
+
+💼 [LinkedIn](https://www.linkedin.com/in/rufai-adeniyi)
+
+📝 [Blog](https://hashnode.com/@neyo55)
+
+📧 [Email](mailto:kbneyo55@gmail.com)
+
+---
+
 > Building infrastructure, automation, and intelligent systems for modern platforms.
 
-⭐ Open to Cloud • DevOps • Platform Engineering • AI Automation opportunities and collaborations.
+---
+
+⭐ Open to Cloud • Platform • DevOps • AI Automation opportunities and collaborations.
+
+---
+
+## ☕ Support My Work
+
+⭐ Star repositories
+🤝 Collaborate
+📬 Reach out
 
 Thanks for stopping by 👋
+
+
+
