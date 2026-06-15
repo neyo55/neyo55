@@ -257,7 +257,7 @@ Observability
 Continuous Improvement
 
 ---
-## 📊 Engineering & GitHub Insights
+## 📊 Engineering Dashboard
 
 <p align="center">
 
@@ -289,7 +289,7 @@ Continuous Improvement
 
 ---
 
-## 🏆 Contribution Graph
+## 🏆 Activity Graph
 
 <p align="center">
 
