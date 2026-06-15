@@ -1,3 +1,11 @@
+<p align="center">
+
+  <img src="./New GitHub Banner.png" alt="Rufai Banner"/> 
+
+</p>
+
+
+
 # Hi 👋 I'm Rufai Kabiru Adeniyi
 
 # ☁️ Cloud • DevOps • Platform • AI Automation Engineer
