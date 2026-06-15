@@ -269,7 +269,7 @@ Continuous Improvement
 
 ---
 
-## 📈 Contributions Streak
+## 📈 Contribution Streak
 
 <p align="center">
 
