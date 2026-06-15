@@ -257,22 +257,45 @@ Observability
 Continuous Improvement
 
 ---
+## 📊 Engineering & GitHub Insights
 
-## 📈 Engineering Metrics
+<p align="center">
 
-✔ Cloud Infrastructure Engineering
-✔ DevOps Automation
-✔ GitOps Deployment Practices
-✔ AI Workflow Engineering
-✔ Monitoring & Reliability Platforms
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neyo55&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyo55&layout=compact&hide_border=true&langs_count=8&theme=transparent"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity & Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neyo55\&show_icons=true\&hide_border=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neyo55\&layout=compact\&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=neyo55&hide_border=true&theme=transparent"/>
+
+</p>
+
+---
+
+## 🚀 Engineering Focus
+
+✔ Cloud Infrastructure
+✔ DevOps Automation
+✔ AI Workflow Engineering
+✔ GitOps Delivery
+✔ Observability & Reliability
+
+---
+
+## 🏆 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neyo55&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
