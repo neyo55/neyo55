@@ -97,11 +97,11 @@ Designing and orchestrating intelligent workflows that connect infrastructure, a
 
 ## 🏗 Featured Projects
 
-### 🛒 Enterprise E-Commerce DevOps Platform
+### 🛒 Enterprise E-Commerce Platform 
 
 **Repository:** `ecommerce-devops-project`
 
-Enterprise-grade DevOps implementation for a containerized e-commerce platform.
+Built Containerized Enterprise-grade e-commerce platform by implementating GitOps.
 
 Highlights:
 
@@ -113,7 +113,7 @@ Highlights:
 * Cloud Operational Practices
 
 **Tech:**
-Docker • AWS • GitHub Actions • Prometheus • Grafana
+Docker • Microservices • Argocd • GitHub Actions • Prometheus • Grafana
 
 ---
 
